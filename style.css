@@ -1,0 +1,67 @@
+body {
+    padding: 3%;
+}
+
+.titulo {
+    font-family: Rajdhani;
+    text-align: center;
+  }
+    .text_description {
+      font-family: Kelly;
+      font-size: 22px;
+      font-weight: 500;
+      color:#696969;
+      position: absolute;
+      right: 25%;
+      top: 28%;
+      
+    }
+    body {
+      background-color: #F5F5F5;
+    }
+    button { 
+      font-family: Rajdhani;
+      font-size: 28px;
+      font-weight: 700;
+      border: 15px 25px;
+      padding: 12px;
+      background-color: #B2DFEE;
+      text-decoration: none;
+      border-radius: 10px;
+      color: white;
+      }
+      .info {
+        color: #363636;
+        font-family: Shadows Into Light Two;
+        font-size: 18px;
+        font-weight: 300;
+        }
+        .primeiro {
+          font-family: Shadows Into Light Two;
+          font-size: 24px;
+        }
+        .segundo {
+          font-family: Shadows Into Light Two;
+          font-size: 22px;
+        }
+        .terceiro {
+          font-family: Shadows Into Light Two;
+          font-size: 20px;
+        }
+        .quarto {
+          font-family: Shadows Into Light Two;
+          font-size: 18px;
+        }
+        #minhafoto {
+            float: left;
+            height: 430px;
+            padding: 10px;
+            background-color: #363636;
+        }
+        .image-descrição {
+            height: 450px;
+            position: relative;
+        }
+        ul li:nth-child(odd) {
+           font-family: Rajdhani;
+        }

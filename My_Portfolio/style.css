@@ -1,5 +1,6 @@
 body {
     padding: 3%;
+    background-color: #F5F5F5;
 }
 
 .titulo {
@@ -13,12 +14,9 @@ body {
       color:#696969;
       position: absolute;
       right: 25%;
-      top: 28%;
-      
+      top: 28%; 
     }
-    body {
-      background-color: #F5F5F5;
-    }
+
     button { 
       font-family: Rajdhani;
       font-size: 28px;

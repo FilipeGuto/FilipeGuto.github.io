@@ -25,6 +25,8 @@ header {
   justify-content: flex-end;
   align-items: center;
   padding: 10px 10%;
+  position: fixed;
+  width: 100%;
 }
 
 .logo {

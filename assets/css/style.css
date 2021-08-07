@@ -8,9 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Cinzel&family=Zen+Loop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 body {
   background-color: #f5f5f5;
@@ -30,7 +28,7 @@ a {
   color: #1e1e1e;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
-  font-family: 'Zen Loop';
+  font-family: 'Roboto';
 }
 
 a:hover {
@@ -747,7 +745,7 @@ a:hover {
   color: #fff;
   font-weight: 200;
   font-size: 3rem;
-  font-family: 'Cinzel';
+  font-family: 'Roboto';
 
 }
 
